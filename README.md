@@ -28,8 +28,8 @@
 		</small>
 	</p>
 	<p>
-		<a href="https://www.linkedin.com/in/mohammad-saquib-khan-1b032b171/">
-			<img alt="LinkedIn @MrSaquibKhan" align="center" 
+		<a href="https://www.linkedin.com/in/akarshan-sonkar-a101301a1/">
+			<img alt="LinkedIn @MrAkarshanSonkar" align="center" 
 src="https://img.shields.io/badge/LINKEDIN-gray.svg?colorA=6A788D&colorB=6A788D&style=for-the-badge" />
 		</a>&nbsp;
 		<small>
@@ -120,8 +120,8 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <!-- links to your social media accounts -->
 
 
-[2]: https://github.com/geekysaquib
-[3]: https://www.linkedin.com/in/mohammad-saquib-khan-1b032b171/
+[2]: https://github.com/akarshansonkar
+[3]: https://www.linkedin.com/in/akarshan-sonkar-a101301a1/
 
 
  <details>
