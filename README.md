@@ -1,3 +1,8 @@
+<head>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4171089907988376"
+     crossorigin="anonymous"></script>
+</head>
+
 <div align="left">
 <p><a href="https://www.youtube.com/watch?v=VX3LdDVv88g"><img alt="YouTube.com" align="center" src="https://img.shields.io/badge/LEARN-FETCHING%20DATA%20FROM%20SQL%20PHP%20-gray.svg?colorA=596577&colorB=6A788D&style=for-the-badge" /></a>&nbsp; <strong>IMP:</strong> I'm teaching developers how to write Backend Code in PHP (Data Retrieving)
 </p></div>
