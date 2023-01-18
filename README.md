@@ -136,7 +136,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 </details>
 
-
+![Akarshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akarshansonkar&show_icons=true&theme=radical)
  ![Visitor Count](https://profile-counter.glitch.me/{geekysaquib}/count.svg)
 
 
