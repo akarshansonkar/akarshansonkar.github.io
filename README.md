@@ -1,19 +1,13 @@
 - 👋 Hi, I’m @akarshansonkar
-- 👀 I’m interested in learning some new everyday 
+- 👀 I’m interested in learning something new everyday 
 - 🌱 I’m currently learning backend and database
 - 📫 How to reach me akarshan.sonker@gmail.com
 
-<!---
-akarshansonkar/akarshansonkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-[![@akarshan's Holopin board](https://holopin.me/akarshan)](https://holopin.io/@akarshan)
+
+![Sponsor Akarshan](https://github.com/akarshansonkar/akarshansonkar.github.io/blob/main/Banner.png)
 
 
 
-<!-- <div align="left">
-<p><a href="https://www.youtube.com/watch?v=VX3LdDVv88g"><img alt="YouTube.com" align="center" src="https://img.shields.io/badge/LEARN-FETCHING%20DATA%20FROM%20SQL%20PHP%20-gray.svg?colorA=596577&colorB=6A788D&style=for-the-badge" /></a>&nbsp; <strong>IMP:</strong> I'm teaching developers how to write Backend Code in PHP (Data Retrieving)
-</p></div> -->
 
 <div align="left">
 	<p>
@@ -34,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 	</p>
 	<p>
 		<a href="thetrustedtribune.com">
-			<img alt="Website: thetrustedtribune.com" align="center" src="https://img.shields.io/badge/The-trustedTribune-blue" />
+			<img alt="Website: thetrustedtribune.com" align="center" src="https://img.shields.io/badge/-The%20Trusted%20Tribune-blue" />
 		</a>&nbsp;
 		<small>
 			<strong>(LIVE)</strong> E-NewsPaper platform | Daily Hunt | Blogs | WebCode | Events | E-Library (Coming Soon)
@@ -51,18 +45,15 @@ src="https://img.shields.io/badge/-Linkedin-blue" />
 	</p>
 </div>
 
-<!-- [![Sponsor Saquib](https://studyeze.in/gitlab/saquibkhan.png)][s] -->
+[![@akarshan's Holopin board](https://holopin.me/akarshan)](https://holopin.io/@akarshan)
 
-<small><strong>❯❯ Skills  ↓</strong></small>
 
-<!-- [![PHP Course](https://img.shields.io/badge/LEARN-PHP%20Backend%20Code%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge)][n] [![Java Core Course](https://img.shields.io/badge/LEARN-JAVA%20(Core)%20Code%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge)][v] [![Deno Course](https://img.shields.io/badge/WORKING-WebCode%20(free)%20%E2%86%92-gray.svg?colorA=6B999F&colorB=6A788D&style=for-the-badge)][d]
- -->
+
+
 ![](https://github.com/akarshansonkar)
 
 [s]: https://github.com/akarshansonkar
-<!-- [n]: https://www.youtube.com/watch?v=vKxj1ZVu8LQ
-[v]: https://www.youtube.com/watch?v=4924a_nCjwk
-[d]: https://www.youtube.com/watch?v=9oNvB9guHuo -->
+
 [g]: https://github.com/akarshansonkar
 
 
@@ -105,21 +96,16 @@ i also maintain a E-newspaper website [The Trusted Tribune](thetrustedtribune.co
 
    
 
-<!-- links to social media icons -->
-
-<!-- icons with padding -->
 
 
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
-<!-- icons without padding -->
 
 
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 
-<!-- links to your social media accounts -->
 
 
 [2]: https://github.com/akarshansonkar
@@ -131,15 +117,6 @@ i also maintain a E-newspaper website [The Trusted Tribune](thetrustedtribune.co
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akarshansonkar&show_icons=true&theme=gotham" alt="Akarshan Sonkar | Stats" />
 
-</details>
-
-![Akarshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akarshansonkar&show_icons=true&theme=radical)
- ![Visitor Count](https://profile-counter.glitch.me/{akarshansonkar}/count.svg)
 
 
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
 
