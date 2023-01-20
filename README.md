@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning backend and database
 - 📫 How to reach me akarshan.sonker@gmail.com
 
+<img alt="cover" src="https://github.com/akarshansonkar/akarshansonkar.github.io/blob/main/Banner.png"></img>
 
-![Sponsor Akarshan](https://github.com/akarshansonkar/akarshansonkar.github.io/blob/main/Banner.png)
 
 
 
