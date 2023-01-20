@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning backend and database
 - 📫 How to reach me akarshan.sonker@gmail.com
 
-<img alt="cover" src="https://github.com/akarshansonkar/akarshansonkar.github.io/blob/main/Banner.png"></img>
+<img alt="cover" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1674204697879/e21c4812-07db-4a55-aaf3-87b2fa451655.png?auto=compress,format&format=webp">
 
 
 
