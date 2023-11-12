@@ -5,13 +5,13 @@
 
 <img alt="cover" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1674204697879/e21c4812-07db-4a55-aaf3-87b2fa451655.png?auto=compress,format&format=webp">
 
-
+[![An image of @akarshan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akarshan)](https://holopin.io/@akarshan)
 
 
 
 <div align="left">
 	<p>
-		<a href="https://twitter.com/Mohamma13288237">
+		<a href="https://twitter.com/sonkar_aka75103">
 			<img alt="Twitter @AkarshanSonkar" align="center" src="https://img.shields.io/badge/-%40AkarshanSonkar-blue" />
 		</a>&nbsp;
 		<small>
@@ -19,7 +19,7 @@
 		</small>
 	</p>
 	<p>
-		<a href="zordcoder.live">
+		<a href="https://zordcoder.live/">
 			<img alt="ZordCoder" align="center" src="https://img.shields.io/badge/-ZordCoder-blue" />
 		</a>&nbsp;
 		<small>
@@ -27,7 +27,7 @@
 		</small>
 	</p>
 	<p>
-		<a href="thetrustedtribune.com">
+		<a href="[thetrustedtribune.com](https://www.thetrustedtribune.com/)">
 			<img alt="Website: thetrustedtribune.com" align="center" src="https://img.shields.io/badge/-The%20Trusted%20Tribune-blue" />
 		</a>&nbsp;
 		<small>
