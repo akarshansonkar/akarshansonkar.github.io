@@ -27,7 +27,7 @@
 		</small>
 	</p>
 	<p>
-		<a href="[thetrustedtribune.com](https://www.thetrustedtribune.com/)">
+		<a href="https://www.thetrustedtribune.com/">
 			<img alt="Website: thetrustedtribune.com" align="center" src="https://img.shields.io/badge/-The%20Trusted%20Tribune-blue" />
 		</a>&nbsp;
 		<small>
