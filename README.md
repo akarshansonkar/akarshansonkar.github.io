@@ -5,6 +5,8 @@
 
 <a href="https://app.daily.dev/akarshansonkar"><img src="https://api.daily.dev/devcards/4db3c812ba2f41919e28e289f48da2a9.png?r=571" width="400" alt="Akarshan Sonkar's Dev Card"/></a>
 
+![](https://komarev.com/ghpvc/?username=akarshansonkar&label=PROFILE+VIEWS)
+
 <img alt="cover" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1674204697879/e21c4812-07db-4a55-aaf3-87b2fa451655.png?auto=compress,format&format=webp">
 
 [![An image of @akarshan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akarshan)](https://holopin.io/@akarshan)
