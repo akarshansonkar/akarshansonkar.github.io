@@ -49,7 +49,6 @@ src="https://img.shields.io/badge/-Linkedin-blue" />
 	</p>
 </div>
 
-[![@akarshan's Holopin board](https://holopin.me/akarshan)](https://holopin.io/@akarshan)
 
 
 
